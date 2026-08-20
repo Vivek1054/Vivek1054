@@ -1,208 +1,276 @@
+<div align="center">
+
 # 👋 Hi, I'm Vivek Gupta
 
-### 💻 Full Stack Developer | React Developer | Python Developer
+### 💻 Full Stack Developer
 
-I'm a B.Sc. IT graduate passionate about building modern web applications, APIs, and real-world software projects.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;Python+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-I enjoy working across both frontend and backend development and continuously learning new technologies.
+<p>
+  <a href="https://github.com/Vivek1054">
+    <img src="https://img.shields.io/github/followers/Vivek1054?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Vivek1054">
+    <img src="https://img.shields.io/github/stars/Vivek1054?label=Stars&style=for-the-badge" />
+  </a>
+  <a href="https://vivek-gupta-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
----
-
-## 🚀 About Me
-
-* 🎓 B.Sc. Information Technology Graduate
-* 💼 Junior HTML/XML Associate experience
-* 💻 Full Stack & Frontend Development
-* ⚛️ React & Vite development
-* 🐍 Python & Flask backend development
-* 🟢 Node.js & Express
-* 🗄️ MySQL & MongoDB
-* 🔌 REST API development
-* ☁️ Cloudinary for media storage
-* 🚀 Deployment with Vercel, Netlify & Render
-* 🔧 Git & GitHub
+</div>
 
 ---
 
-## 🛠️ Current Tech Stack
+## 🧑‍💻 About Me
 
-### Frontend
+```text
+👋 Hi, I'm Vivek!
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
+💻 Full Stack Developer
+⚛️ React & Vite
+🟢 Node.js & Express
+🐍 Python & Flask
+🗄️ MySQL & MongoDB
+🔌 REST APIs
+☁️ Cloudinary
+🚀 Vercel • Netlify • Render
+🔧 Git & GitHub
+```
 
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-### APIs & Services
-
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge\&logo=cloudinary\&logoColor=white)
-
-### Tools & Deployment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge\&logo=netlify\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+I'm a B.Sc. IT graduate who enjoys building real-world applications,
+working with modern web technologies, and continuously improving
+my development skills.
 
 ---
 
-## 🚀 Featured Projects
+# ⚡ Tech Stack
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,bootstrap,materialui,framer" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+### ☁️ Tools & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
 
 ### 🛒 SmartCart
 
-A modern e-commerce web application built with React.
+Modern e-commerce application built with React.
 
-**Tech Stack:**
+**Stack**
 
-`React` `JavaScript` `Tailwind CSS` `Bootstrap` `Framer Motion` `DaisyUI`
+`React` `Vite` `Tailwind`
+`JavaScript` `Framer Motion`
 
-**Features:**
+**Focus**
 
-* 🛍️ Product browsing
-* 🛒 Shopping cart
-* 🔎 Product search
-* 📱 Responsive UI
-* ✨ Modern animations
+🛍️ E-commerce
+🎨 Modern UI
+📱 Responsive Design
+✨ Animations
 
----
+</td>
 
-### 🎙️ Chanakya — Voice Assistant
-
-A voice-activated desktop assistant built with Python and web technologies.
-
-**Tech Stack:**
-
-`Python` `HTML` `CSS` `JavaScript` `Bootstrap`
-
-**Features:**
-
-* 🎤 Voice commands
-* 🔎 YouTube search
-* 💬 WhatsApp messaging
-* 🌐 Browser navigation
-* 🖥️ System control
-* 🤖 AI-powered responses
-
-🔗 [View Repository](https://github.com/Vivek1054/CHANAKYA)
-
----
+<td width="50%">
 
 ### ✅ MarkTask
 
-A modern task management application built with React.
+Modern task management application.
 
-**Tech Stack:**
+**Stack**
 
-`React` `Tailwind CSS` `Framer Motion`
+`React` `Tailwind`
+`Framer Motion`
 
-**Features:**
+**Features**
 
-* 🔐 Authentication
-* ➕ Task creation
-* ⏱️ Completion time
-* ⏰ Reminders
-* 📜 Task history
-* ✨ Animated UI
+🔐 Authentication
+⏰ Reminders
+📋 Task Management
+📜 Task History
 
-🔗 [View Repository](https://github.com/Vivek1054/Project-MarkTask)
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎙️ Chanakya
+
+Python-based voice assistant.
+
+**Stack**
+
+`Python` `HTML` `CSS`
+`JavaScript` `Bootstrap`
+
+**Features**
+
+🎤 Voice Commands
+🔎 YouTube Search
+💬 WhatsApp
+🌐 Browser Control
+🤖 AI Queries
+
+</td>
+
+<td width="50%">
+
+### 🌐 Portfolio
+
+Personal developer portfolio built with React and Vite.
+
+**Stack**
+
+`React` `Vite`
+`Tailwind` `Framer Motion`
+`Material UI`
+
+**Features**
+
+📱 Responsive
+⚡ Fast
+✨ Smooth Animations
+📂 Projects Showcase
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🌐 Personal Portfolio
+# 📊 GitHub Analytics
 
-A responsive developer portfolio built with React and Vite.
+<div align="center">
 
-**Tech Stack:**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vivek1054&show_icons=true&theme=tokyonight&hide_border=true" />
 
-`React` `Vite` `Tailwind CSS` `Framer Motion` `Material UI`
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek1054&layout=compact&theme=tokyonight&hide_border=true" />
 
-🔗 [View Repository](https://github.com/Vivek1054/Portfolio)
-
-🌐 [Live Portfolio](https://vivek-gupta-portfolio.vercel.app/)
+</div>
 
 ---
 
-## 💼 Experience
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vivek1054&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vivek1054/Vivek1054/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# 💼 Experience
 
 ### Junior HTML/XML Associate
 
 **KnowledgeWorks Global Ltd.**
 
-Worked on:
+Worked with:
 
 * HTML/XML content
 * Bug fixing
 * Web content maintenance
-* Frontend development tasks
-* React and Python based projects
+* Frontend development
+* React
+* Python
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Working With
 
-* Advanced React
-* Node.js & Express
-* Flask
-* REST API development
-* MySQL & MongoDB
-* Authentication & Authorization
-* Cloudinary
-* Full Stack Application Architecture
-* Deployment & Cloud Services
+```text
+Frontend       → React • Vite • Tailwind CSS
+Backend        → Node.js • Express • Flask
+Programming    → JavaScript • Python • Java
+Database       → MySQL • MongoDB • SQLite
+APIs           → REST APIs • Authentication
+Cloud          → Cloudinary
+Deployment     → Vercel • Netlify • Render
+Tools          → Git • GitHub • VS Code
+```
 
 ---
 
-## 🎯 Career Interests
+# 🎯 What I'm Looking For
 
 I'm interested in opportunities as:
 
-* 💻 React Developer
-* 🚀 Full Stack Developer
-* 🐍 Python Developer
+**React Developer • Full Stack Developer • Python Developer**
+
+I'm always open to learning new technologies, building interesting
+projects, and collaborating with other developers.
 
 ---
 
-## 📊 GitHub Stats
+# 🌐 Connect With Me
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivek1054\&show_icons=true\&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek1054\&layout=compact\&theme=tokyonight)
+<a href="https://github.com/Vivek1054">
+<img src="https://img.shields.io/badge/GitHub-Vivek1054-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://linkedin.com/in/vivek-gupta-7142a4364">
+<img src="https://img.shields.io/badge/LinkedIn-Vivek%20Gupta-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://vivek-gupta-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" />
+</a>
+
+<a href="mailto:gvivek1005@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
+</a>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
-
-📧 **Email:** [gvivek1005@gmail.com](mailto:gvivek1005@gmail.com)
-
-💼 **LinkedIn:** [Vivek Gupta](https://linkedin.com/in/vivek-gupta-7142a4364)
-
-🌐 **Portfolio:** [vivek-gupta-portfolio.vercel.app](https://vivek-gupta-portfolio.vercel.app/)
-
-🐙 **GitHub:** [Vivek1054](https://github.com/Vivek1054)
-
----
+<div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-Feel free to explore my repositories and connect with me.
+<img src="https://komarev.com/ghpvc/?username=Vivek1054&style=for-the-badge&color=blue" alt="Profile Views" />
+
+</div>
